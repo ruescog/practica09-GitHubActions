@@ -1,2 +1,2 @@
 # practica09-GitHubActions-
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+![example workflow](https://github.com/ruescog/practica09-GitHubActions/actions/workflows/<WORKFLOW_FILE>/badge.svg)
